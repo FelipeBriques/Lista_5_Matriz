@@ -1,4 +1,4 @@
-#include<stdio.h.>
+#include<stdio.h>
 void main() {
     int A[5][6], B[5][6], C[5][6], j, l, i = 0, k = 0; 
 
